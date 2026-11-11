@@ -137,3 +137,9 @@ The reference evaluator uses exact comparison for corrected translations. This m
 Localization | Machine Translation | Linguistic QA | Language AI
 
 GitHub: [Dharmendra32](https://github.com/Dharmendra32)
+
+## Detailed Documentation
+
+For a complete explanation of the project architecture, Python scripts, testing methodology, benchmark evaluation, and GitHub Actions setup, see:
+
+[Read the Complete Project Guide](PROJECT_GUIDE.md)
